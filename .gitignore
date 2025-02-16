@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# VitePress build folder
+.vitepress/dist/
+
+# IDE/editor files
+.vscode/
+.idea/
