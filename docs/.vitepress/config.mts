@@ -8,15 +8,54 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Doc', link: '/doc' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Guid',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+
+    
+            {
+              text: 'Custom AI Solutions Development',
+              items: [
+                {
+                  text: 'Tailored AI for Your Business Needs',
+                  link: '/custom-AI-solutions-development',
+                },
+                {
+                  text: 'What We Offer',
+                  link: '/what-we-offer',
+                }
+              ]
+            },
+            {
+              text: 'Chatbot and Virtual Assistant Development',
+              items: [
+                {
+                  text: 'Automate Conversations with Smart AI Tools',
+                  link: '/',
+                },
+                {
+                  text: 'What We Offer',
+                  link: '/',
+                }
+              ]
+            },
+            {
+              text: 'AI-Driven Automation Solutions',
+              items: [
+                {
+                  text: 'Transform Business Operations with AI-Powered Automation',
+                  link: '/',
+                },
+                {
+                  text: 'What We Offer',
+                  link: '/',
+                }
+              ]
+            },
         ]
       }
     ],
