@@ -81,8 +81,8 @@ Our process begins by understanding your unique business requirements and challe
 To begin your journey with AI, get in touch with us for an initial consultation. We will understand your business needs and propose the best AI solutions to help you achieve your goals.
 
 **Contact Us:**
-- Email: [your-email@example.com](info@matoglobal.com)
-- Phone: +123 456 7890
-- Website: [www.yourwebsite.com](http://www.matoglobal.ai)
+- Email: [info@matoglobal.com](info@matoglobal.com)
+- Phone: +94 770 172 451
+- Website: [http://www.matoglobal.ai](http://www.matoglobal.ai)
 
 ---
